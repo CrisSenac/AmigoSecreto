@@ -12,7 +12,6 @@ Este projeto é uma aplicação simples para gerenciar uma lista de amigos e rea
 1. Digite um nome no campo de entrada e clique no botão "Adicionar" ou pressione "Enter".
 2. Os nomes adicionados aparecerão em uma lista.
 3. Clique no botão "Sortear amigo" para escolher um nome aleatório.
-4. Caso deseje recomeçar, clique no botão "Limpar lista" para apagar todos os nomes.
 
 ## Tecnologias Utilizadas
 - **HTML**: Estrutura da página.
