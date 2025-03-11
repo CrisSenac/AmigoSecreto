@@ -31,4 +31,5 @@ Este projeto é uma aplicação simples para gerenciar uma lista de amigos e rea
 
 ---
 Projeto criado para facilitar a organização do sorteio de amigo secreto! 🎉
+Desenvolvido por Crislene Santos.
 
